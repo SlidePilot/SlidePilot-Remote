@@ -4,7 +4,7 @@
   <img width=120 src="images/appicon.png"/>
 </p>
 <p align="center">
-  <strong>The companion app to controll SlidePilot presentations 📱</strong>
+  <strong>The perfect companion to control SlidePilot presentations 📱</strong>
 </p>
 
 This is the issue, feature and feedback tracking repository for SlidePilot Remote. If you want to report bugs, improvements, feature requests or anything else, feel free to open a new issue.
