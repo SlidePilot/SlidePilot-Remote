@@ -16,7 +16,7 @@ SlidePilot is also available on macOS. Click [here](https://github.com/SlidePilo
 SlidePilot will also be available on iPadOS. Click [here](https://github.com/SlidePilot/SlidePilot-iPadOS) to get to the repository for the iPadOS app.
 
 ## Download
-SlidePilot Remote is currently in development and will be available (probably) mid to late 2020.
+SlidePilot Remote is currently in development and will be available (probably) mid 2020.
 
 ## Links
 - [Documentation](https://slidepilot.gitbook.io/slidepilot/)
