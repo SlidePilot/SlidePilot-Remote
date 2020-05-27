@@ -1,4 +1,4 @@
-# SlidePilot Remote
+# SlidePilot Remote (in development)
 
 <p align="center">
   <img width=120 src="images/appicon.png"/>
